@@ -191,8 +191,7 @@ The raw dataset has significant quality issues that are systematically resolved:
 
 ## 👤 Author
 
-**[Your Name]**
-B.E. Artificial Intelligence & Data Science
+**Shubham Anil Ghorpade**
 
 - GitHub: [@sbteam00](https://github.com/sbteam00)
 - LinkedIn: [linkedin.com/in/shubham-ghorpade](https://linkedin.com/in/shubham-ghorpade-9b0402377)
