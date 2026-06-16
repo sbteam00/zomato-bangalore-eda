@@ -1,0 +1,12 @@
+{
+  "services_breakdown": {
+    "online_ordering_percentages": {
+      "True": 58.87,
+      "False": 41.13
+    },
+    "table_booking_percentages": {
+      "False": 87.53,
+      "True": 12.47
+    }
+  }
+}

@@ -1,0 +1,145 @@
+{
+  "restaurants_with_cost": 51371,
+  "cost_summary": {
+    "mean": 555.43,
+    "median": 400.0,
+    "std": 438.85,
+    "min": 40.0,
+    "max": 6000.0
+  },
+  "log_cost_summary": {
+    "mean": 6.0946,
+    "std": 0.655
+  },
+  "pearson_correlations": [
+    {
+      "x": "approx_cost_for_two",
+      "y": "rating",
+      "pearson_r": 0.3852,
+      "p_value": 0.0,
+      "n": 41418,
+      "significant_at_05": true
+    },
+    {
+      "x": "approx_cost_for_two",
+      "y": "votes",
+      "pearson_r": 0.3818,
+      "p_value": 0.0,
+      "n": 51371,
+      "significant_at_05": true
+    },
+    {
+      "x": "approx_cost_for_two",
+      "y": "cuisine_count",
+      "pearson_r": 0.2685,
+      "p_value": 0.0,
+      "n": 51371,
+      "significant_at_05": true
+    },
+    {
+      "x": "approx_cost_for_two",
+      "y": "review_count",
+      "pearson_r": 0.19,
+      "p_value": 0.0,
+      "n": 51371,
+      "significant_at_05": true
+    }
+  ],
+  "correlation_matrix": {
+    "approx_cost_for_two": {
+      "approx_cost_for_two": 1.0,
+      "log_cost": 0.8998,
+      "rating": 0.3852,
+      "votes": 0.3818,
+      "cuisine_count": 0.2685,
+      "review_count": 0.19
+    },
+    "log_cost": {
+      "approx_cost_for_two": 0.8998,
+      "log_cost": 1.0,
+      "rating": 0.3671,
+      "votes": 0.3719,
+      "cuisine_count": 0.3464,
+      "review_count": 0.2053
+    },
+    "rating": {
+      "approx_cost_for_two": 0.3852,
+      "log_cost": 0.3671,
+      "rating": 1.0,
+      "votes": 0.4348,
+      "cuisine_count": 0.2064,
+      "review_count": 0.1502
+    },
+    "votes": {
+      "approx_cost_for_two": 0.3818,
+      "log_cost": 0.3719,
+      "rating": 0.4348,
+      "votes": 1.0,
+      "cuisine_count": 0.2317,
+      "review_count": 0.3648
+    },
+    "cuisine_count": {
+      "approx_cost_for_two": 0.2685,
+      "log_cost": 0.3464,
+      "rating": 0.2064,
+      "votes": 0.2317,
+      "cuisine_count": 1.0,
+      "review_count": 0.1448
+    },
+    "review_count": {
+      "approx_cost_for_two": 0.19,
+      "log_cost": 0.2053,
+      "rating": 0.1502,
+      "votes": 0.3648,
+      "cuisine_count": 0.1448,
+      "review_count": 1.0
+    }
+  },
+  "price_tier_breakdown": [
+    {
+      "price_tier": "Budget (<300)",
+      "restaurant_count": 18554,
+      "mean_cost": 237.52,
+      "median_cost": 250.0,
+      "mean_rating": 3.57,
+      "median_rating": 3.6,
+      "mean_votes": 50.11
+    },
+    {
+      "price_tier": "Mid (300-600)",
+      "restaurant_count": 19205,
+      "mean_cost": 469.64,
+      "median_cost": 450.0,
+      "mean_rating": 3.62,
+      "median_rating": 3.7,
+      "mean_votes": 174.35
+    },
+    {
+      "price_tier": "Upper-mid (600-1k)",
+      "restaurant_count": 8332,
+      "mean_cost": 807.91,
+      "median_cost": 800.0,
+      "mean_rating": 3.8,
+      "median_rating": 3.9,
+      "mean_votes": 481.92
+    },
+    {
+      "price_tier": "Premium (1k-1.5k)",
+      "restaurant_count": 3501,
+      "mean_cost": 1311.43,
+      "median_cost": 1300.0,
+      "mean_rating": 4.12,
+      "median_rating": 4.1,
+      "mean_votes": 1165.53
+    },
+    {
+      "price_tier": "Luxury (1.5k+)",
+      "restaurant_count": 1779,
+      "mean_cost": 2126.98,
+      "median_cost": 2000.0,
+      "mean_rating": 4.16,
+      "median_rating": 4.2,
+      "mean_votes": 1244.55
+    }
+  ]
+}

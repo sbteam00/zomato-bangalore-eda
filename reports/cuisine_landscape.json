@@ -1,0 +1,344 @@
+{
+  "unique_cuisine_count": 108,
+  "top_cuisines_by_count": [
+    {
+      "cuisine": "North Indian",
+      "restaurant_count": 21085,
+      "mean_rating": 3.64,
+      "median_rating": 3.7,
+      "mean_cost": 621.93,
+      "total_votes": 6858255
+    },
+    {
+      "cuisine": "Chinese",
+      "restaurant_count": 15547,
+      "mean_rating": 3.61,
+      "median_rating": 3.7,
+      "mean_cost": 602.99,
+      "total_votes": 4078042
+    },
+    {
+      "cuisine": "South Indian",
+      "restaurant_count": 8644,
+      "mean_rating": 3.61,
+      "median_rating": 3.6,
+      "mean_cost": 436.91,
+      "total_votes": 1323212
+    },
+    {
+      "cuisine": "Fast Food",
+      "restaurant_count": 8096,
+      "mean_rating": 3.61,
+      "median_rating": 3.7,
+      "mean_cost": 397.63,
+      "total_votes": 1034629
+    },
+    {
+      "cuisine": "Biryani",
+      "restaurant_count": 6492,
+      "mean_rating": 3.55,
+      "median_rating": 3.6,
+      "mean_cost": 471.04,
+      "total_votes": 1255313
+    },
+    {
+      "cuisine": "Continental",
+      "restaurant_count": 5765,
+      "mean_rating": 3.96,
+      "median_rating": 4.0,
+      "mean_cost": 1017.61,
+      "total_votes": 4370661
+    },
+    {
+      "cuisine": "Desserts",
+      "restaurant_count": 5633,
+      "mean_rating": 3.86,
+      "median_rating": 3.9,
+      "mean_cost": 440.33,
+      "total_votes": 1256700
+    },
+    {
+      "cuisine": "Cafe",
+      "restaurant_count": 5303,
+      "mean_rating": 3.9,
+      "median_rating": 4.0,
+      "mean_cost": 644.15,
+      "total_votes": 2851617
+    },
+    {
+      "cuisine": "Beverages",
+      "restaurant_count": 4747,
+      "mean_rating": 3.81,
+      "median_rating": 3.8,
+      "mean_cost": 415.1,
+      "total_votes": 928364
+    },
+    {
+      "cuisine": "Italian",
+      "restaurant_count": 3389,
+      "mean_rating": 3.95,
+      "median_rating": 4.1,
+      "mean_cost": 899.41,
+      "total_votes": 2617907
+    },
+    {
+      "cuisine": "Bakery",
+      "restaurant_count": 2840,
+      "mean_rating": 3.67,
+      "median_rating": 3.7,
+      "mean_cost": 411.45,
+      "total_votes": 237822
+    },
+    {
+      "cuisine": "Street Food",
+      "restaurant_count": 2595,
+      "mean_rating": 3.62,
+      "median_rating": 3.7,
+      "mean_cost": 292.65,
+      "total_votes": 368320
+    },
+    {
+      "cuisine": "Pizza",
+      "restaurant_count": 2073,
+      "mean_rating": 3.91,
+      "median_rating": 4.0,
+      "mean_cost": 765.96,
+      "total_votes": 1403519
+    },
+    {
+      "cuisine": "Burger",
+      "restaurant_count": 2009,
+      "mean_rating": 3.92,
+      "median_rating": 4.0,
+      "mean_cost": 634.58,
+      "total_votes": 1470937
+    },
+    {
+      "cuisine": "Seafood",
+      "restaurant_count": 1810,
+      "mean_rating": 3.8,
+      "median_rating": 3.9,
+      "mean_cost": 777.0,
+      "total_votes": 817221
+    },
+    {
+      "cuisine": "Ice Cream",
+      "restaurant_count": 1774,
+      "mean_rating": 3.84,
+      "median_rating": 3.9,
+      "mean_cost": 304.95,
+      "total_votes": 275745
+    },
+    {
+      "cuisine": "Andhra",
+      "restaurant_count": 1760,
+      "mean_rating": 3.6,
+      "median_rating": 3.6,
+      "mean_cost": 580.0,
+      "total_votes": 526472
+    },
+    {
+      "cuisine": "Mughlai",
+      "restaurant_count": 1570,
+      "mean_rating": 3.72,
+      "median_rating": 3.8,
+      "mean_cost": 714.78,
+      "total_votes": 831977
+    },
+    {
+      "cuisine": "Rolls",
+      "restaurant_count": 1470,
+      "mean_rating": 3.53,
+      "median_rating": 3.6,
+      "mean_cost": 337.97,
+      "total_votes": 160174
+    },
+    {
+      "cuisine": "American",
+      "restaurant_count": 1461,
+      "mean_rating": 4.07,
+      "median_rating": 4.1,
+      "mean_cost": 992.66,
+      "total_votes": 2046558
+    }
+  ],
+  "top_rated_cuisines_min_50": [
+    {
+      "cuisine": "BBQ",
+      "restaurant_count": 736,
+      "mean_rating": 4.05,
+      "median_rating": 4.1,
+      "mean_cost": 1038.99,
+      "total_votes": 1016072
+    },
+    {
+      "cuisine": "Goan",
+      "restaurant_count": 114,
+      "mean_rating": 4.06,
+      "median_rating": 4.1,
+      "mean_cost": 1085.96,
+      "total_votes": 116361
+    },
+    {
+      "cuisine": "Salad",
+      "restaurant_count": 1138,
+      "mean_rating": 4.07,
+      "median_rating": 4.1,
+      "mean_cost": 976.78,
+      "total_votes": 1160487
+    },
+    {
+      "cuisine": "American",
+      "restaurant_count": 1461,
+      "mean_rating": 4.07,
+      "median_rating": 4.1,
+      "mean_cost": 992.66,
+      "total_votes": 2046558
+    },
+    {
+      "cuisine": "French",
+      "restaurant_count": 87,
+      "mean_rating": 4.09,
+      "median_rating": 4.2,
+      "mean_cost": 1183.91,
+      "total_votes": 35184
+    },
+    {
+      "cuisine": "Steak",
+      "restaurant_count": 573,
+      "mean_rating": 4.09,
+      "median_rating": 4.1,
+      "mean_cost": 1029.53,
+      "total_votes": 880628
+    },
+    {
+      "cuisine": "Burmese",
+      "restaurant_count": 55,
+      "mean_rating": 4.11,
+      "median_rating": 4.0,
+      "mean_cost": 1394.55,
+      "total_votes": 88267
+    },
+    {
+      "cuisine": "Asian",
+      "restaurant_count": 1295,
+      "mean_rating": 4.14,
+      "median_rating": 4.2,
+      "mean_cost": 1246.91,
+      "total_votes": 1187992
+    },
+    {
+      "cuisine": "Korean",
+      "restaurant_count": 143,
+      "mean_rating": 4.15,
+      "median_rating": 4.2,
+      "mean_cost": 1472.73,
+      "total_votes": 119807
+    },
+    {
+      "cuisine": "European",
+      "restaurant_count": 715,
+      "mean_rating": 4.17,
+      "median_rating": 4.2,
+      "mean_cost": 1543.15,
+      "total_votes": 1025739
+    },
+    {
+      "cuisine": "Konkan",
+      "restaurant_count": 81,
+      "mean_rating": 4.17,
+      "median_rating": 4.1,
+      "mean_cost": 1023.46,
+      "total_votes": 24260
+    },
+    {
+      "cuisine": "Mediterranean",
+      "restaurant_count": 555,
+      "mean_rating": 4.21,
+      "median_rating": 4.2,
+      "mean_cost": 1456.31,
+      "total_votes": 948507
+    },
+    {
+      "cuisine": "Japanese",
+      "restaurant_count": 349,
+      "mean_rating": 4.26,
+      "median_rating": 4.3,
+      "mean_cost": 1636.39,
+      "total_votes": 423151
+    },
+    {
+      "cuisine": "Modern Indian",
+      "restaurant_count": 155,
+      "mean_rating": 4.31,
+      "median_rating": 4.4,
+      "mean_cost": 1473.55,
+      "total_votes": 150649
+    },
+    {
+      "cuisine": "Malaysian",
+      "restaurant_count": 109,
+      "mean_rating": 4.31,
+      "median_rating": 4.3,
+      "mean_cost": 1352.75,
+      "total_votes": 138051
+    }
+  ],
+  "primary_cuisine_market_share_top10": [
+    {
+      "primary_cuisine": "North Indian",
+      "restaurant_count": 12299,
+      "share_pct": 23.78
+    },
+    {
+      "primary_cuisine": "South Indian",
+      "restaurant_count": 5010,
+      "share_pct": 9.69
+    },
+    {
+      "primary_cuisine": "Cafe",
+      "restaurant_count": 4330,
+      "share_pct": 8.37
+    },
+    {
+      "primary_cuisine": "Chinese",
+      "restaurant_count": 3066,
+      "share_pct": 5.93
+    },
+    {
+      "primary_cuisine": "Biryani",
+      "restaurant_count": 3055,
+      "share_pct": 5.91
+    },
+    {
+      "primary_cuisine": "Fast Food",
+      "restaurant_count": 2592,
+      "share_pct": 5.01
+    },
+    {
+      "primary_cuisine": "Bakery",
+      "restaurant_count": 2175,
+      "share_pct": 4.21
+    },
+    {
+      "primary_cuisine": "Desserts",
+      "restaurant_count": 2150,
+      "share_pct": 4.16
+    },
+    {
+      "primary_cuisine": "Continental",
+      "restaurant_count": 1846,
+      "share_pct": 3.57
+    },
+    {
+      "primary_cuisine": "Beverages",
+      "restaurant_count": 1255,
+      "share_pct": 2.43
+    }
+  ],
+  "cuisine_count_on_menu": {
+    "mean": 2.45,
+    "median": 2.0,
+    "max": 8
+  }
+}

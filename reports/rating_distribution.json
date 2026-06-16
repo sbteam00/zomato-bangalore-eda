@@ -1,0 +1,89 @@
+{
+  "summary_statistics": {
+    "count": 41665,
+    "mean": 3.7,
+    "median": 3.7,
+    "std": 0.441,
+    "min": 1.8,
+    "max": 4.9,
+    "skewness": -0.329,
+    "kurtosis": -0.007
+  },
+  "iqr_outliers": {
+    "q1": 3.4,
+    "q3": 4.0,
+    "iqr": 0.6,
+    "lower_fence": 2.5,
+    "upper_fence": 4.9,
+    "outlier_count": 187,
+    "outlier_pct": 0.45,
+    "outlier_values_sample": [
+      1.8,
+      2.0,
+      2.1,
+      2.2,
+      2.3,
+      2.4
+    ]
+  },
+  "shapiro_wilk": {
+    "statistic": 0.989169,
+    "p_value": 3.7760199646525474e-19,
+    "n_tested": 5000,
+    "n_total": 41665,
+    "note": "subsampled from 41,665 to 5,000",
+    "is_normal_at_05": false,
+    "interpretation": "Ratings deviate from normality (reject H0 at alpha=0.05)"
+  },
+  "by_listed_in_type": [
+    {
+      "listed_in_type": "Delivery",
+      "count": 20649,
+      "mean": 3.653,
+      "median": 3.7,
+      "std": 0.418
+    },
+    {
+      "listed_in_type": "Dine-out",
+      "count": 14207,
+      "mean": 3.681,
+      "median": 3.7,
+      "std": 0.452
+    },
+    {
+      "listed_in_type": "Desserts",
+      "count": 2732,
+      "mean": 3.777,
+      "median": 3.8,
+      "std": 0.403
+    },
+    {
+      "listed_in_type": "Cafes",
+      "count": 1526,
+      "mean": 3.872,
+      "median": 3.9,
+      "std": 0.428
+    },
+    {
+      "listed_in_type": "Drinks & nightlife",
+      "count": 1055,
+      "mean": 4.017,
+      "median": 4.1,
+      "std": 0.432
+    },
+    {
+      "listed_in_type": "Buffet",
+      "count": 855,
+      "mean": 3.982,
+      "median": 4.0,
+      "std": 0.461
+    },
+    {
+      "listed_in_type": "Pubs and bars",
+      "count": 641,
+      "mean": 4.023,
+      "median": 4.1,
+      "std": 0.422
+    }
+  ]
+}

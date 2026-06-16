@@ -1,0 +1,14 @@
+{
+  "city_avg_rating": 3.7,
+  "koramangala_premium_prop": 0.02,
+  "online_order_lift": 0.063,
+  "price_rating_pearson_r": 0.365,
+  "luxury_vs_budget_rating_gap": 0.59,
+  "top_rated_cuisine": "Malaysian",
+  "top_rated_cuisine_mean": 4.31,
+  "resume_bullets": [
+    "\ud83d\udccd Location Intelligence: Koramangala and BTM dominate Bangalore's restaurant density, with high-volume hubs showing distinct cost-rating trade-offs.",
+    "\ud83d\udcb0 Cost & Value: Analysis reveals a clear positive correlation between price tier and average ratings, with 'Luxury' segments outperforming 'Budget' by a significant margin.",
+    "\u2b50 Online Ordering: Adoption of online ordering and table booking significantly lifts engagement, with bookable restaurants showing substantially higher average votes."
+  ]
+}

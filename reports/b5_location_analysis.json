@@ -1,0 +1,65 @@
+{
+  "total_locations_tracked": 93,
+  "top_market_hubs": [
+    {
+      "location": "BTM",
+      "restaurant_count": 5124,
+      "mean_rating": 3.57,
+      "mean_cost": 396.48
+    },
+    {
+      "location": "HSR",
+      "restaurant_count": 2523,
+      "mean_rating": 3.67,
+      "mean_cost": 475.61
+    },
+    {
+      "location": "Koramangala 5th Block",
+      "restaurant_count": 2504,
+      "mean_rating": 4.01,
+      "mean_cost": 663.66
+    },
+    {
+      "location": "JP Nagar",
+      "restaurant_count": 2235,
+      "mean_rating": 3.68,
+      "mean_cost": 522.77
+    },
+    {
+      "location": "Whitefield",
+      "restaurant_count": 2144,
+      "mean_rating": 3.62,
+      "mean_cost": 598.15
+    },
+    {
+      "location": "Indiranagar",
+      "restaurant_count": 2083,
+      "mean_rating": 3.83,
+      "mean_cost": 653.79
+    },
+    {
+      "location": "Jayanagar",
+      "restaurant_count": 1926,
+      "mean_rating": 3.78,
+      "mean_cost": 476.41
+    },
+    {
+      "location": "Marathahalli",
+      "restaurant_count": 1846,
+      "mean_rating": 3.54,
+      "mean_cost": 513.75
+    },
+    {
+      "location": "Bannerghatta Road",
+      "restaurant_count": 1630,
+      "mean_rating": 3.51,
+      "mean_cost": 443.68
+    },
+    {
+      "location": "Bellandur",
+      "restaurant_count": 1286,
+      "mean_rating": 3.53,
+      "mean_cost": 527.5
+    }
+  ]
+}
