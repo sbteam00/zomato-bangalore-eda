@@ -674,7 +674,7 @@ def render_business_insights(df):
             # Sort descending by rating per specification rules
             gems_sorted = gems_df[[
                 'name', 'location', 'primary_cuisine', 'rating', 'votes', 'approx_cost_for_two'
-            ]].sort_values(by='rating', ascending=False)
+            ]].drop_duplicates(subset=['name', 'location']).sort_values(by='rating', ascending=False)
             
             # Format table styling mapping for presentation grid layout
             gems_display = gems_sorted.rename(columns={
